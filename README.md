@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilaaslam" alt="hilaaslam" /></a> </p>
 
-- 🔭 I’m currently working on **BanoQabil**
-
 - 🌱 I’m currently learning **Mern Stack**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
