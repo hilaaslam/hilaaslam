@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **HDSE**
 
-- 💬 Ask me about **HTML,CSS,BOOTSTRAP,
-- JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,BOOTSTRAP,JAVASCRIPT**
 
 - 📫 How to reach me **hilaaslam06@gmail.com**
 
